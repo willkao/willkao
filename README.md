@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Will
 #### Software Engineer
-![Software Engineer](https://www.linkedin.com/in/will-kao/overlay/background-image/)
+![Software Engineer]([https://www.linkedin.com/in/will-kao/overlay/background-image/](https://media.licdn.com/dms/image/D5616AQEJf2PXThzITw/profile-displaybackgroundimage-shrink_350_1400/0/1671943635527?e=1677715200&v=beta&t=U3OpbETMLJoRDHGxuCdoHKiwTSrU2-eHsvsKNaI_hZI))
 
 
 Skills: REACT / JS / HTML / CSS
